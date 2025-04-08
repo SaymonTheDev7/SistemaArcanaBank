@@ -111,7 +111,7 @@ Saldo Inicial: 5000.00
 
 - Java 23
 - JDBC
-- MySQL (estrutura de banco não incluída aqui)
+- MySQL
 - IntelliJ IDEA / Eclipse (qualquer IDE compatível)
 
 ---
